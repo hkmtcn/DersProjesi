@@ -20,8 +20,7 @@ namespace DersProjesi
             Console.WriteLine("test");
 
             Console.ReadLine();
-
-            test1
+            //Yeni eklenen yorum satırı
         }
     }
 }
