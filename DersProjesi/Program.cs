@@ -20,6 +20,8 @@ namespace DersProjesi
             Console.WriteLine("test");
 
             Console.ReadLine();
+
+            test1
         }
     }
 }
