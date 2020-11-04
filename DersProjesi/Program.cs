@@ -17,8 +17,6 @@ namespace DersProjesi
                 Console.WriteLine(i.ToString());
             }
 
-            Console.WriteLine("test");
-
             Console.ReadLine();
             //Yeni eklenen yorum satırı
         }
