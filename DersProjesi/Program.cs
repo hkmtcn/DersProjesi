@@ -18,7 +18,7 @@ namespace DersProjesi
             }
 
             Console.ReadLine();
-            //Yeni eklenen yorum satırı
+            //Yeni eklenen yorum satırı 3
         }
     }
 }
